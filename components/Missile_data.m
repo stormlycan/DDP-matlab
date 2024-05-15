@@ -34,11 +34,11 @@ x_in = 0;
 y_in = 0;
 z_in = 0;
 U = 10;
-V = 20;
-W = 30;
+V = 10;
+W = 10;
 
-target_pos = [500, 2000, 1500];
+target_pos = [500, 500, 500];
 
 Missile_mass = 10;
-Missile_inertia = [10 20 30];
+Missile_inertia = diag([10 10 10]);
 
