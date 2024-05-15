@@ -40,3 +40,5 @@ W = 30;
 target_pos = [500, 2000, 1500];
 
 Missile_mass = 10;
+Missile_inertia = [10 20 30];
+
